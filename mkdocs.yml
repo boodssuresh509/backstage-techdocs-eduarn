@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Help: help.md
   - Architecture: architecture.md
+  - Installation: installation.md
 
 docs_dir: docs
 
